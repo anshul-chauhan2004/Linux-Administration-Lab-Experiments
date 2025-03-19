@@ -14,7 +14,7 @@ sudo mkdir /home/consultants
 ```
 
 #### Screenshot:
-![Creating the consultants directory](screenshots/mkdir_consultants.png)
+<img width="367" alt="Screenshot 2025-03-19 at 10 47 20 AM" src="https://github.com/user-attachments/assets/8334941e-327f-425b-914a-b9d7ae4ce336" />
 
 ---
 
@@ -28,7 +28,7 @@ sudo chmod g+w /home/consultants
 - `g+w`: Adds write (`w`) permission for the group (`g`).
 
 #### Screenshot:
-![Adding write permission to the group](screenshots/chmod_gw.png)
+<img width="378" alt="Screenshot 2025-03-19 at 10 47 33 AM" src="https://github.com/user-attachments/assets/3e1c0a67-529d-4b75-beb3-a1ef047274ab" />
 
 ---
 
@@ -45,7 +45,7 @@ sudo chmod 770 /home/consultants
   - `0` (others): No permissions.
 
 #### Screenshot:
-![Setting permissions using the octal method](screenshots/chmod_770.png)
+<img width="387" alt="Screenshot 2025-03-19 at 10 47 39 AM" src="https://github.com/user-attachments/assets/f43a94dc-18be-42d3-8752-27ad8e09abb8" />
 
 ---
 
@@ -61,7 +61,7 @@ drwxrwx--- 2 root consultants 4096 Oct 10 12:34 /home/consultants
 ```
 
 #### Screenshot:
-![Verifying directory permissions](screenshots/ls_ld_consultants.png)
+<img width="472" alt="Screenshot 2025-03-19 at 10 47 48 AM" src="https://github.com/user-attachments/assets/4ceb78a2-caba-4eb2-b1d3-b92182b4bada" />
 
 ---
 
