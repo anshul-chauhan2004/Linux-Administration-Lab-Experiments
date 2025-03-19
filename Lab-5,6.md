@@ -20,7 +20,7 @@ lab_file="editing_final_lab.txt"
 ```
 
 #### Screenshot:
-![Setting the shell variable](screenshots/set_lab_file.png)
+<img width="626" alt="Screenshot 2025-03-19 at 10 44 36 AM" src="https://github.com/user-attachments/assets/c11a8263-b33a-4952-bb6e-97e8530ab957" />
 
 ---
 
